@@ -499,6 +499,11 @@ ul.email li a {
      color: #fff;
 }
 
+#image-center {
+     display:block;
+     margin:0 auto;
+   }
+
 .text-bg a {
      font-size: 17px;
      background-color: #fff;
